@@ -1,4 +1,4 @@
-# Approva Exames
+# Approva Exames RPA
 Repositório de provas Approva Fácil para desenvolvimento RPA
 
 ## Lista de Exames
