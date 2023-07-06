@@ -15,3 +15,5 @@ no site dos correios. O programa deve ser capaz de realizar as seguintes tarefas
 - Executar o comando em prompt de comando
 - Imprimir nba tela o resultado da busca
 - Fornecer todas as instruções de como preparar o ambiente para rodar o programa em um arquivo README.md
+
+Você pode obter mais detalhes do exame em [EXAME 01](https://github.com/Saulorj/approva_exams_rpa/tree/main/exame_01)
